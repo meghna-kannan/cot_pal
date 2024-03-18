@@ -1,1 +1,1 @@
-# meghna_science_pair
+# Study of PAL and COT reasoning for math problems
